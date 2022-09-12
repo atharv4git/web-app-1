@@ -1,0 +1,6 @@
+username = atharv4mongo
+pass = NYHAf7uZzRxk8UPB
+
+
+client = pymongo.MongoClient("mongodb+srv://atharv4mongo:NYHAf7uZzRxk8UPB@web-application.giqm4kl.mongodb.net/?retryWrites=true&w=majority")
+db = client.test
